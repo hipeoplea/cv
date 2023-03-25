@@ -1,1 +1,1 @@
-Code for vezdekod hackaton
+Code for vezdekod hackathon
